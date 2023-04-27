@@ -1,5 +1,7 @@
 # grid-ray
 
+## THIS PROJECT IS MAINTAINED [HERE](https://github.com/bonsairobo/ilattice-rs) NOW
+
 An iterator-based implementation of the Amantides and Woo algorithm for casting a ray through pixels or voxels.
 
 ## Code Example
